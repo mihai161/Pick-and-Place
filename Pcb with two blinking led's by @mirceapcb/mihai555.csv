@@ -1,0 +1,7 @@
+Id,Designator,Footprint,Quantity,Designation,Supplier and ref
+1,"R9,R2,R5,RL1,R6,R7,R8,R1,R4,R3",R_0603_1608Metric,10,500k,
+2,"REF**,REF**,REF**",fiducial_1x1,3,fiducial_1x1,
+3,"C1,CC2,CC1",C_0603_1608Metric,3,1uF,
+4,"REF**,REF**",power_2_5mm,2,power_2_5mm,
+5,U1,SOIC-8_3.9x4.9mm_P1.27mm,1,NE555D,
+6,"D2,D1",LED_0603_1608Metric,2,LED,
